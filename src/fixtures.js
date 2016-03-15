@@ -1,4 +1,4 @@
-export default [
+export default   [
     {
         "id": "56c782f18990ecf954f6e027",
         "title": "Commodo qui incididunt",
